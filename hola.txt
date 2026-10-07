@@ -4,6 +4,5 @@ desde desarrollo
 b336292 (Añade desde desarrollo)
 desarrollo
 más cosas desde desarrollo
-desarrollo
 otra desde main
-929df09 (Añade mas en desarrollo)
+
