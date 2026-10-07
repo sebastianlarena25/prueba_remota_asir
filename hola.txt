@@ -1,7 +1,6 @@
 hola
 desde main
 desde desarrollo
-b336292 (Añade desde desarrollo)
 desarrollo
 más cosas desde desarrollo
 otra desde main
